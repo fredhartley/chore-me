@@ -26,6 +26,11 @@ a {
     margin: 0 200px;
 }
 
+.home-logo {
+    font-family: 'Lilita One', cursive;
+    font-size: 1.5em;
+}
+
 .nav-links {
     display: flex;
     justify-content:flex-end;
@@ -130,7 +135,8 @@ h2 {
 }
 
 .quote-section {
-    background-color:  #E86A33;
+    background: rgb(255,108,44);
+    background: linear-gradient(352deg, rgba(255,108,44,1) 0%, rgba(232,106,51,1) 59%, rgba(208,92,41,1) 100%);
     width: 100%;
     padding: 20px 0 60px 0;
 }
